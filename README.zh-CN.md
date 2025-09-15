@@ -682,8 +682,8 @@ func main()  {
 `ints/isInts`  |  检查值是`int` slice类型(only allow `[]int`)
 `eq_field/eqField`  |  检查字段值是否等于另一个字段的值
 `ne_field/neField`  |  检查字段值是否不等于另一个字段的值
-`gte_field/gtField`  |  检查字段值是否大于另一个字段的值
-`gt_field/gteField`  | 检查字段值是否大于或等于另一个字段的值
+`gt_field/gtField`  |  检查字段值是否大于另一个字段的值
+`gte_field/gteField`  | 检查字段值是否大于或等于另一个字段的值
 `lt_field/ltField`  |  检查字段值是否小于另一个字段的值
 `lte_field/lteField`  |  检查字段值是否小于或等于另一个字段的值
 `file/isFile`  |  验证是否是上传的文件
